@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Joe Tobin
 email: jobin212@gmail.com
-description: Joseph Tobin's personal website: research in machine learning and crypto. 
-
-
+description: Joseph Tobin's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jobin212.github.io" # the base hostname & protocol for your site
 twitter_username: jobin212

@@ -5,10 +5,20 @@ permalink: /projects/
 ---
 [//]: # (this page is not loaded correctly in testing mode, goes to jobin212.github.io/about instead of localhost:4000/about)
 
-Research interests:
-<ul>
-	<li>Machine learning </li>
-	<li>Distributed sytems, especially P2P networks </li>
-	<li>Crytography, especially secure multi-party computation </li>
-</ul>
+### Current Projects
+
+##### Secure Machine Learning
+
+##### DAAS
+
+##### zk-SNARKS: Theory and Practice
+For a class project of Professor Mohammad Mahmoody's "Foundations of Cryptography Class", I will be exploring how __zk-SNARKS__ work at both a practical (specifically as used by [zCash](z.cash) ) and theoretical  level. 
+
+##### High School Programming Challenge
+This year, I am serving on [ACM@UVA's](http://acm.cs.virginia.edu/) executive board as HSPC Head Judge.  Every year, our ACM hosts a ICPC-like competition for high schools throughout Virginia.  I am in charge of coming up with the problems and making sure nothing goes too badly!
+
+
+### Previous Projects
+
+
 
