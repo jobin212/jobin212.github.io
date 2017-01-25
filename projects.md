@@ -9,6 +9,7 @@ permalink: /projects/
 
 #### Secure Machine Learning
 
+#### Computer Vision
  
 #### Improved Fourier Reconstruction using Jump Information with Applications to MRI
 I spent the last summer at Michigan State University's SURIEM Math REU [(program homepage)](http://lymanbriggs.msu.edu/SURIEM/).  I specifically worked in a team with three other undergraduates under Professors Aditya Viswanathan, Mark Iwen, and Tsveta Sendova on improving Medical Resonance Imaging with Fourier Analysis.  You can see our project site [here](https://sites.google.com/site/suriem2016mathmri/home), a technical report [here](https://arxiv.org/abs/1610.03764), and our code on bitbucket [here](https://bitbucket.org/charms/fourierrecon).    
