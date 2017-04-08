@@ -1,23 +1,19 @@
----
-layout: default
----
+<!DOCTYPE HTML>
+<html>
 
-<div class="home">
+<h1> Joseph Tobin  </h1>
 
-  <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<h3> Education </h3>
+<ul>
+	<li> B.A. in Mathematics and Computer Science, University of Virginia </li>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+<h3> Projects </h3>
+<ul>
+	<li> SURIEM Math REU </li>
+	<li> D.A.A.S. (Drones as a Service) </li>
+</ul>
+</html>
