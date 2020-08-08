@@ -7,9 +7,9 @@ permalink: /about/
 Hi, I'm Jobin! I currently work as a software engineer working on scaling the core services that power Microsoft Teams 🚀.
 
 I'm currently working on 
-- 🚧[puffin.live](https://puffin.live), the easiest way to see the coolest events happening *right now* 
-- 🚧[moomail.club](moomail.club), the substack for physical newsletters
-- 🚧a personal guide to sofware engineering
+- 🚧 [puffin.live](https://puffin.live), the easiest way to see the coolest events happening *right now* 
+- 🚧 [moomail.club](moomail.club), the substack for physical newsletters
+- 🚧 a personal guide to sofware engineering
 - the labs in [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824)
 - reading [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321), a book on systems design
 - my improv skills at [Jet City Improv](https://www.jetcityimprov.org/)
